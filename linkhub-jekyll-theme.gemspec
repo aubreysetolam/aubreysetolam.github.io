@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["social@digitalmalayali.in"]
 
   spec.summary       = "A minimal and super-lightweight free Jekyll theme to create a link-in-bio website like Linktree."
-  spec.homepage      = "https://digitalmalayali.github.io/linkhub-jekyll-theme"
+  spec.homepage      = "https://aubreysetolam.github.io"
   spec.license       = "MIT"
 
   spec.metadata = {
